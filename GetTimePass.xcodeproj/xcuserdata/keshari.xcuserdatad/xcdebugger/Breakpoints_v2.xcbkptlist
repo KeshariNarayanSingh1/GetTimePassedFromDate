@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "255FBA54-C95B-4ADD-A735-470341829607"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D5DF144-1A51-406F-A68A-180793C5FE39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GetTimePass/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D5DF144-1A51-406F-A68A-180793C5FE39 - c6a2a2e5a5e07e3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetTimePass.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GetTimePass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keshari/Desktop/GetTimePass/GetTimePass/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "7D5DF144-1A51-406F-A68A-180793C5FE39 - c6a2a2e5a5e07e3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GetTimePass.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GetTimePass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keshari/Desktop/GetTimePass/GetTimePass/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
